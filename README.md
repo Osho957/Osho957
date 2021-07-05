@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript,React,NodeJs.**
 
-- 📫 How to reach me **oshorajneesh@gmail.com**
+- 📫 How to reach me **oshorajneesh453@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Awesome**
 
