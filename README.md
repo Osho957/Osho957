@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring,GoLang**
 
-- 👨‍💻 All of my Information are available at [https://osho957.github.io/Portfolio-temp/](https://osho957.github.io/Portfolio-temp/)
+- 👨‍💻 ([Portfolio](https://osho-portfolio.vercel.app/))
 
 - 💬 Ask me about **Java,SpringBoot,Mysql,Microservices**
 
