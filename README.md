@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osho957" alt="osho957" /></a> </p>
 
-- 🔭 Contributing To [Adda](https://www.adda247.com/)
+- 🔭 Contributing To [Motive](https://gomotive.com/)
 
 - 🌱 I’m currently learning **Spring,GoLang**
 
